@@ -1,0 +1,57 @@
+/* Whole settings */
+
+body {
+    margin: 0%;
+    background-color: #e8e8e8;
+}
+
+section {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+/* header part settings */
+
+.header h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.header p {
+    font-size: 25px;
+    opacity: 0.5;
+}
+
+/* contents part settings */
+
+.contents {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/* result part settings */
+.score p {
+font-size: 30px;
+}
+
+.score1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.score2 {
+    font-size: 35px;
+}
+
+/* scroll btn part settings */
+
+  .scroll a {
+      position: fixed;
+      right: 0;
+      bottom: 0;
+    font-size: 20px;
+    background: #ffffff;
+    margin: 5px 10px 5px 10px;
+  }
